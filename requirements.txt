@@ -31,6 +31,7 @@ filelock==3.29.0
 fonttools==4.62.1
 fqdn==1.5.1
 fsspec==2026.4.0
+gdown==6.0.0
 gitdb==4.0.12
 GitPython==3.1.50
 h11==0.16.0
@@ -116,6 +117,7 @@ pydantic==2.13.4
 pydantic_core==2.46.4
 Pygments==2.20.0
 pyparsing==3.3.2
+PySocks==1.7.1
 python-dateutil==2.9.0.post0
 python-json-logger==4.1.0
 pytz==2026.2
